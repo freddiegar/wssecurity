@@ -1,5 +1,5 @@
 {
-    "name": "freddiegar/authentication",
+    "name": "freddiegar/wssecurity",
     "description": "Authentication WSSecurity Type",
     "type": "library",
     "require": {
